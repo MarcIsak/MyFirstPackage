@@ -2,6 +2,7 @@
 
 export(calcTSNE)
 export(get.var.genes)
+export(makecluster)
 export(makeheatmap)
 export(makescellclass)
 export(readindexfile)
