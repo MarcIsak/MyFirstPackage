@@ -1,0 +1,19 @@
+Package: MyFirstPackage
+Title: Visualize top variable genes in a dataset (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Marc",
+           family = "Isaksson",
+           role = c("cre"),
+           email = "first.last@example.com")
+Description: What the package does (one paragraph).
+Suggests: 
+  testthat
+Depends: R (>= 3.4.0),
+  pheatmap,
+  rgl,
+  Rtsne
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
